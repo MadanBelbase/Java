@@ -3,7 +3,6 @@ import javax.swing.*;
 import java.awt.event.*;
 import java.awt.*;
 
-
 class DialogBox extends JFrame implements ActionListener {
     JPopupMenu popupMenu;
     JMenuItem copy, cut, paste, close , selectAll;
